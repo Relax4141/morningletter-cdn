@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "date": "2026-10-24",
+  "preparedOn": "2026-10-24",
+  "voiceId": "diantai",
+  "storyVoiceId": "shunv",
+  "offlineNotice": "网络还没连上，今天先用随身的一小段。",
+  "morning": {
+    "theme": "let_go",
+    "text": "有些事可以先放在窗台上。不是忘记，只是今天先不抱着它走路。你会轻一点。",
+    "durationHintSec": 48,
+    "tts": {
+      "role": "morning_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-24/morning-diantai.mp3",
+      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "fileName": "morning-diantai.mp3",
+      "cachePath": "daily-pack/2026-10-24/morning-diantai.mp3"
+    }
+  },
+  "afterLetter": [
+    {
+      "slot": 1,
+      "role": "instrumental_mist",
+      "hasLyrics": false,
+      "title": "Mist on the sill",
+      "audio": {
+        "role": "instrumental_mist",
+        "url": "https://assets.mixkit.co/music/148/148.mp3",
+        "sha256": "30232da0b9521ed35e009162bfe7c63d06c9c8e4ca81ea5137ab63a9dc66cd98",
+        "fileName": "song-1-mist.mp3",
+        "cachePath": "daily-pack/2026-10-24/song-1-mist.mp3"
+      }
+    },
+    {
+      "slot": 2,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "I Believe in Us",
+      "lyricExcerpt": "I believe in us when the morning comes",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://assets.mixkit.co/music/1000/1000.mp3",
+        "sha256": "a23c959605dc4a53f7e3b8c8949fcc0d082c29989b944bb2a7f8d9601ddca0d1",
+        "fileName": "song-2-eng.mp3",
+        "cachePath": "daily-pack/2026-10-24/song-2-eng.mp3"
+      }
+    },
+    {
+      "slot": 3,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "Follow My Voice",
+      "lyricExcerpt": "Follow my voice into the light",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://assets.mixkit.co/music/1147/1147.mp3",
+        "sha256": "9a3163a731f85037d0e75b07e90be42e8564efbb57e491586c5e522b02f22277",
+        "fileName": "song-3-eng.mp3",
+        "cachePath": "daily-pack/2026-10-24/song-3-eng.mp3"
+      }
+    }
+  ],
+  "story": {
+    "title": "先把石头放下",
+    "body": "你把那张旧清单叠好，放进抽屉最上层。不是扔掉，只是今天不需要再看一遍。阳台上的叶子晃了一下，像在说：可以了。你深吸一口气，把肩膀上的那块石头轻轻放下。路上遇到的人依旧匆忙，你却慢了半步。慢半步的人，也能走到想去的地方。傍晚回来时，抽屉还在原处，可你已经轻了许多。",
+    "durationHintSec": 300,
+    "tts": {
+      "role": "story_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-24/story-shunv.mp3",
+      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
+      "fileName": "story-shunv.mp3",
+      "cachePath": "daily-pack/2026-10-24/story-shunv.mp3"
+    },
+    "afterSong": {
+      "slot": 4,
+      "role": "soft_after_story",
+      "hasLyrics": false,
+      "title": "Soft after story",
+      "audio": {
+        "role": "soft_after_story",
+        "url": "https://assets.mixkit.co/music/109/109.mp3",
+        "sha256": "d282d58655fffc3a1342264a392e0aa1ae32566ac8241595a7ad2c6fc0467272",
+        "fileName": "song-4-after.mp3",
+        "cachePath": "daily-pack/2026-10-24/song-4-after.mp3"
+      }
+    }
+  },
+  "images": {
+    "cover": {
+      "role": "cover",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-24/cover.jpg",
+      "sha256": "d7e6f5de2346e661f7d94f09ea096ed4d715b7bab6ac9188f88e67f0eb2b6465",
+      "fileName": "cover.jpg",
+      "cachePath": "daily-pack/2026-10-24/cover.jpg"
+    },
+    "scene": {
+      "role": "scene",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-24/scene.jpg",
+      "sha256": "50e98b4e99ce03d12cadddfcf8116f089a54b147123d8365c0393b8526de4ff6",
+      "fileName": "scene.jpg",
+      "cachePath": "daily-pack/2026-10-24/scene.jpg"
+    },
+    "card": {
+      "role": "card",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-24/card.jpg",
+      "sha256": "63c8a71393ae8eb5e026e18cba3f82b69562ad8e15add287b5471e95c79eccdc",
+      "fileName": "card.jpg",
+      "cachePath": "daily-pack/2026-10-24/card.jpg"
+    }
+  },
+  "attribution": [
+    "Mixkit Stock Music Free License — mixkit.co",
+    "OpenGameArt / project mist bed where applicable"
+  ]
+}
