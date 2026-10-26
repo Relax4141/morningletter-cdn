@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "date": "2026-10-28",
+  "preparedOn": "2026-10-26",
+  "voiceId": "diantai",
+  "storyVoiceId": "shunv",
+  "offlineNotice": "网络还没跟上，先听听本地这一小段。",
+  "morning": {
+    "theme": "let_go",
+    "text": "有些事可以先放在窗台上。不是忘记，只是今天先不背着它们赶路。呼吸轻一点。",
+    "durationHintSec": 48,
+    "tts": {
+      "role": "morning_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/morning-diantai.mp3",
+      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "fileName": "morning-diantai.mp3",
+      "cachePath": "daily-pack/2026-10-28/morning-diantai.mp3"
+    }
+  },
+  "afterLetter": [
+    {
+      "slot": 1,
+      "role": "instrumental_mist",
+      "hasLyrics": false,
+      "title": "Forest Mist Whispers",
+      "libraryId": "mist_01",
+      "audio": {
+        "role": "instrumental_mist",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/song-1-mist.mp3",
+        "sha256": "46a882dc8c302a3cad5425df0215c85391f12d057e9d3dad82f4824ee00ef71e",
+        "fileName": "song-1-mist.mp3",
+        "cachePath": "daily-pack/2026-10-28/song-1-mist.mp3"
+      }
+    },
+    {
+      "slot": 2,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "Whispers in the Canopy (feat. Folkshade)",
+      "lyricExcerpt": "Tiny paws on a birch with limb Till like fire in the morning dim A chitter breaks the woven",
+      "libraryId": "eng_vocal_12",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/song-2-eng.mp3",
+        "sha256": "1434ff299111b64ba506d3eb68c935dfb4846b4a1b52848fb5544e162a0e0ebb",
+        "fileName": "song-2-eng.mp3",
+        "cachePath": "daily-pack/2026-10-28/song-2-eng.mp3"
+      }
+    },
+    {
+      "slot": 3,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "Echoes in the Moss (feat. Folkshade)",
+      "lyricExcerpt": "Morning to all the most east on Breath over the rooms of ground A quiet hush beneath the",
+      "libraryId": "eng_vocal_14",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/song-3-eng.mp3",
+        "sha256": "31c7e1e613a331382f97f5f584f62e9f9bc4216b567185dd6bb0d6c34f104cff",
+        "fileName": "song-3-eng.mp3",
+        "cachePath": "daily-pack/2026-10-28/song-3-eng.mp3"
+      }
+    }
+  ],
+  "story": {
+    "title": "先把石头放下",
+    "body": "你把旧清单叠好，放进抽屉最上层。不是扔掉，只是今天不必再看一遍。窗台上的叶子翻了一下，像在说：可以了。你提上一袋水果，把心里的硬石头先放下。路上有人匆匆赶路，你却学会与晨风并肩。放下重了，也就走得到想去的地方。走到路口时你忽然明白，原来轻松并不是偶然。",
+    "durationHintSec": 300,
+    "tts": {
+      "role": "story_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/story-shunv.mp3",
+      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
+      "fileName": "story-shunv.mp3",
+      "cachePath": "daily-pack/2026-10-28/story-shunv.mp3"
+    },
+    "afterSong": {
+      "slot": 4,
+      "role": "soft_after_story",
+      "hasLyrics": false,
+      "title": "Piano after story",
+      "libraryId": "after_02",
+      "audio": {
+        "role": "soft_after_story",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/song-4-after.mp3",
+        "sha256": "17b0ac88189a4b4214002d58cc5a99521d1d6e0038ecb799c4ad10907d4c8c32",
+        "fileName": "song-4-after.mp3",
+        "cachePath": "daily-pack/2026-10-28/song-4-after.mp3"
+      }
+    }
+  },
+  "images": {
+    "cover": {
+      "role": "cover",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/cover.jpg",
+      "sha256": "d7e6f5de2346e661f7d94f09ea096ed4d715b7bab6ac9188f88e67f0eb2b6465",
+      "fileName": "cover.jpg",
+      "cachePath": "daily-pack/2026-10-28/cover.jpg"
+    },
+    "scene": {
+      "role": "scene",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/scene.jpg",
+      "sha256": "50e98b4e99ce03d12cadddfcf8116f089a54b147123d8365c0393b8526de4ff6",
+      "fileName": "scene.jpg",
+      "cachePath": "daily-pack/2026-10-28/scene.jpg"
+    },
+    "card": {
+      "role": "card",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/card.jpg",
+      "sha256": "63c8a71393ae8eb5e026e18cba3f82b69562ad8e15add287b5471e95c79eccdc",
+      "fileName": "card.jpg",
+      "cachePath": "daily-pack/2026-10-28/card.jpg"
+    }
+  },
+  "attribution": [
+    "Whispers in the Canopy (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
+    "Echoes in the Moss (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
+    "Forest Mist Whispers - Mixkit (Mixkit Stock Music Free License)",
+    "See library/ATTRIBUTION.txt"
+  ]
+}
