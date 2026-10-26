@@ -8,11 +8,11 @@
   "morning": {
     "theme": "warm",
     "text": "今天是二零二六年十月二十八日，星期三，现在七点十分。\n你有一份来信。\n水壶大概还热着。你不用马上起来张罗什么，先听我把这几句说完。\n外面若是凉的，就把领子拢一拢——我把这句话放得很轻。",
-    "durationHintSec": 21,
+    "durationHintSec": 58,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-28/morning-diantai.mp3",
-      "sha256": "422c99dce2384dc99e26e5ffcf1965fcc927485caa8f77aa589d04c9c31bea3a",
+      "sha256": "f7ff185fc5e46143026b6345f78e2991762b711e773b8ba70c3af1f43ca25ddd",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-10-28/morning-diantai.mp3"
     }

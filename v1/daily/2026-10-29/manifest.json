@@ -8,11 +8,11 @@
   "morning": {
     "theme": "let_go",
     "text": "今天是二零二六年十月二十九日，星期四，现在六点五十分。\n你有一份来信。\n昨天没回完的消息，还在手机里躺着。它们不会因为你多看一眼就变少。\n你先把肩膀放回枕头。今天的事，等脚沾地再说。",
-    "durationHintSec": 21,
+    "durationHintSec": 54,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-29/morning-diantai.mp3",
-      "sha256": "48fd39843f3e609e72331c102ea64803c82df7d8510207cf323204950eab1238",
+      "sha256": "866008553e30d7a3dc6c93ed6a562b6af6246e12854d1847c5440ef27ee0cbf3",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-10-29/morning-diantai.mp3"
     }

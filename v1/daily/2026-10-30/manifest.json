@@ -8,11 +8,11 @@
   "morning": {
     "theme": "confidence",
     "text": "今天是二零二六年十月三十日，星期五，现在七点整。\n你有一份来信。\n鞋在床边，还是你熟悉的那一双。你不用第一秒就想完整天，先把窗帘拉开一条缝就好。\n光会自己进来。你跟着走一小步，也算开始。",
-    "durationHintSec": 23,
+    "durationHintSec": 57,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-30/morning-diantai.mp3",
-      "sha256": "3fb0e8c53fb6f8fc7a2ddbc270600c44da47d1fcab70aed953fc8b00f72da7a3",
+      "sha256": "6e0daf9c23b5363effcc18c4c7b9b73dd11cb06972e84aeaa7d7f37eb89b4ef6",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-10-30/morning-diantai.mp3"
     }
