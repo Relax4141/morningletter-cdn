@@ -3,16 +3,16 @@
   "date": "2026-10-30",
   "preparedOn": "2026-10-26",
   "voiceId": "diantai",
-  "storyVoiceId": "shunv",
-  "offlineNotice": "网络还没跟上，先听听本地这一小段。",
+  "storyVoiceId": "limi",
+  "offlineNotice": "网络还没连上，今天先用随身的一小段。",
   "morning": {
-    "theme": "present",
-    "text": "把当下当作一封刚拆开的信。先读这一行，再读这一天。从一口呼吸开始。",
-    "durationHintSec": 48,
+    "theme": "confidence",
+    "text": "今天是二零二六年十月三十日，星期五，现在七点整。\n你有一份来信。\n鞋在床边，还是你熟悉的那一双。你不用第一秒就想完整天，先把窗帘拉开一条缝就好。\n光会自己进来。你跟着走一小步，也算开始。",
+    "durationHintSec": 23,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-30/morning-diantai.mp3",
-      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "sha256": "3fb0e8c53fb6f8fc7a2ddbc270600c44da47d1fcab70aed953fc8b00f72da7a3",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-10-30/morning-diantai.mp3"
     }
@@ -66,15 +66,15 @@
     }
   ],
   "story": {
-    "title": "与晨光并肩",
-    "body": "天亮之前，空气还很安静。你听见楼下有人轻轻关上门，然后世界又慢下来。你没有急着把今天填满，只是愿意先把这一口呼吸当作一件大事。茶很简单，糖也放得很克制。你打开一小窗，光就进来了。等你该出门的时候，你已经记得把崭新的一天轻轻迎进心里。",
-    "durationHintSec": 300,
+    "title": "楼道里那盏还没关的灯",
+    "body": "楼下门响了一下，又静了。你不用起身，那不是你的门。\n\n电梯在两层以外停过，数字跳了一下，没上来。窗外有车经过，灯光从窗帘底很快扫过去，像有人用手背轻轻蹭了一下夜。\n\n你把肩膀放回床里。枕头还是白天那个味道。手机扣在床头柜上，屏幕朝下——这样它就算亮一下，也不至于先叫你。\n\n我想起以前住老楼的时候，楼道灯是声控的。有人回家，灯亮三分钟，再自己灭掉。灭掉以后，才真正轮到晚上。你躺着听那三分钟，会听见邻居钥匙、防盗门、还有很远的电视声，都隔着一层木头。灯一灭，这些声音也像被轻轻推远了。\n\n现在很多楼道灯彻夜亮着。亮着也好。像有人在门外坐着值班，并不进来打扰你。\n\n你跟着呼吸数到四，再慢慢把气吐完。不用数对。数着数着，数字会自己走开。\n\n楼道里那盏灯还亮着。光落在水泥地上，不亮也不暗，刚好能看清鞋尖那一小块。你要是此刻走到门外，会看见扶手有一层薄薄的灰，冬天更干，夏天会粘一点潮气。你不用真的走出去。躺着也能把那一段路在脑子里走一遍。\n\n从门口到电梯，通常是十二步，有时多半步。墙上有块掉漆，露出底下更旧的颜色。有人在上面贴过通知，撕掉以后还留着一圈发白的边。电梯门关得很慢，像在等谁再伸一下手。楼道风从下往上走，带着一点洗衣皂和楼下门厅的味道。\n\n窗在楼梯转角。夏天开着，风会先碰到纱窗，再进来；冬天关着，玻璃上有时有哈气，有时没有。你站在窗边往下看，院子里的车一辆挨着一辆，车灯偶尔扫过树干，树影就动一下。路过的风不大，只够把落叶挪开半寸。有时是一辆电动车，灯很窄，很快就没了。\n\n远处一声狗叫。叫完就停。停了以后，静并不是空的——你还能听见冰箱很轻的嗡、楼上水龙头拧紧的一下、以及自己耳朵里那种细细的底噪。狗再叫第二声的时候，你会觉得它离得更远一点。也许不是更远，只是夜更深了。\n\n冬夏的窗沿不一样。夏天有灰，也有一小点雨渍干了以后留下的圈；冬天摸上去凉，像石头。窗沿外面有时停着一枚枯叶，有时什么也没有。你不会特意去记这些，可它们总在那儿。楼道灯照到窗玻璃上，会有一条淡淡的反光，斜斜地切过夜色。\n\n有人从三楼下来，脚步不重。钥匙在口袋里轻轻碰了两下，门开，门关。灯还亮着。过一会儿，也许会灭，也许不会。你听着那扇门回到安静里，像一本书被轻轻合上，没有人鼓掌，也没有人宣布什么结束。\n\n回到床上，枕头还是原来的位置。窗帘没有完全拉死，留了一指宽的缝。缝里偶尔进来一点点外面的光——路灯、车灯、或者对面楼某扇还没关的窗。光来了又走，并不停留。你跟着它眨一下眼，再把眼皮放下去。\n\n平凡的空间就是这样：楼道、窗、风、车灯、一声狗叫之后的静。它们不需要你回应。你只是经过，或者只是听见别人经过。肩还在床里。呼吸还在原来的节奏里。灯在门外亮着也好，灭了也好。这一会儿，足够慢，足够普通。",
+    "durationHintSec": 399,
     "tts": {
       "role": "story_tts",
-      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-30/story-shunv.mp3",
-      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
-      "fileName": "story-shunv.mp3",
-      "cachePath": "daily-pack/2026-10-30/story-shunv.mp3"
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-30/story-limi.mp3",
+      "sha256": "d138529c3e9f6f0a767d3eced2e607fc416553a8584e67898d304d02e95a8134",
+      "fileName": "story-limi.mp3",
+      "cachePath": "daily-pack/2026-10-30/story-limi.mp3"
     },
     "afterSong": {
       "slot": 4,
@@ -89,7 +89,9 @@
         "fileName": "song-4-after.mp3",
         "cachePath": "daily-pack/2026-10-30/song-4-after.mp3"
       }
-    }
+    },
+    "codaOnDevice": true,
+    "codaSource": "StoryNarrator.ENDING_CODA / story_coda.txt"
   },
   "images": {
     "cover": {
@@ -119,5 +121,35 @@
     "Dance Away - Amarent (CC BY 4.0)",
     "Staring at the Night Sky - Mixkit (Mixkit Stock Music Free License)",
     "See library/ATTRIBUTION.txt"
-  ]
+  ],
+  "brandTagline": "听见有人把清晨和晚安送到你枕边。",
+  "offlineLocal": {
+    "morning": {
+      "localRenderPath": "tts-renders/offline/offline_morning.mp3",
+      "sha256": "35b096cb9aa0868f12b3b1a5ee2b5b6616b115cd38f6d732125fd6d32fa6c1c4",
+      "durationSec": 6.408,
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/offline/offline_morning.mp3",
+      "fileName": "offline_morning.mp3",
+      "cdnStatus": "UPLOADED"
+    },
+    "story": {
+      "localRenderPath": "tts-renders/offline/offline_story.mp3",
+      "sha256": "dfda4172a4b3924d13337d3883308cca11ebc27881755a5fa9c885f5b9cd9a94",
+      "durationSec": 9.432,
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/offline/offline_story.mp3",
+      "bytes": 75501,
+      "volcVoiceType": "zh_female_wenroushunv_uranus_bigtts",
+      "voiceId": "limi",
+      "fileName": "offline_story.mp3",
+      "cdnStatus": "UPLOADED"
+    },
+    "network": {
+      "localRenderPath": "tts-renders/offline/offline_network.mp3",
+      "sha256": "c0bb2b044605c78d666cb77e965ad6deb199fa5988280845b6bfb3e6899818b2",
+      "durationSec": 4.056,
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/offline/offline_network.mp3",
+      "fileName": "offline_network.mp3",
+      "cdnStatus": "UPLOADED"
+    }
+  }
 }
