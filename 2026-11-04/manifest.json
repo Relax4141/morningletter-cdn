@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "date": "2026-11-04",
+  "preparedOn": "2026-10-26",
+  "voiceId": "diantai",
+  "storyVoiceId": "shunv",
+  "offlineNotice": "网络还没跟上，先听听本地这一小段。",
+  "morning": {
+    "theme": "warm",
+    "text": "先把心轻轻放回胸口。新的一天，已经把光悄悄送到窗边。慢慢醒，这样就好。",
+    "durationHintSec": 48,
+    "tts": {
+      "role": "morning_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/morning-diantai.mp3",
+      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "fileName": "morning-diantai.mp3",
+      "cachePath": "daily-pack/2026-11-04/morning-diantai.mp3"
+    }
+  },
+  "afterLetter": [
+    {
+      "slot": 1,
+      "role": "instrumental_mist",
+      "hasLyrics": false,
+      "title": "Beautiful Dream",
+      "libraryId": "mist_10",
+      "audio": {
+        "role": "instrumental_mist",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/song-1-mist.mp3",
+        "sha256": "640694b87987b75c2ce24718debe563e4f2cbeaf5620baac8beb837a5a9c6154",
+        "fileName": "song-1-mist.mp3",
+        "cachePath": "daily-pack/2026-11-04/song-1-mist.mp3"
+      }
+    },
+    {
+      "slot": 2,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "A New Beginning (feat. Folkshade)",
+      "lyricExcerpt": "Two years ago, you came so quiet A stranger with a garden face But hide the words they live to",
+      "libraryId": "eng_vocal_19",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/song-2-eng.mp3",
+        "sha256": "2e165b3b419821c256e82c9cd73684bb626304eafbf93b215d529fcce6d9073b",
+        "fileName": "song-2-eng.mp3",
+        "cachePath": "daily-pack/2026-11-04/song-2-eng.mp3"
+      }
+    },
+    {
+      "slot": 3,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "Caught in the Middle",
+      "lyricExcerpt": "You never planned for a dance, never planned for a while. My feelings got me all done the day. You",
+      "libraryId": "eng_vocal_03",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/song-3-eng.mp3",
+        "sha256": "2e9d143a6b039c946deb2ebc2f4e5124b0b37010485fd4830b54aa41dd7f9f3c",
+        "fileName": "song-3-eng.mp3",
+        "cachePath": "daily-pack/2026-11-04/song-3-eng.mp3"
+      }
+    }
+  ],
+  "story": {
+    "title": "窗边还有余温",
+    "body": "厨房里的杯子还留着昨夜的温度。你打开窗帘，光像一封没有署名的信落在桌边。信里没有急着写完的字，只有一句愿意陪你慢慢走的话。后来你才发现，原来那些安静的时刻，也在替你把心安好。出门前你把椅子推回原位，连脚步也轻了一点。",
+    "durationHintSec": 300,
+    "tts": {
+      "role": "story_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/story-shunv.mp3",
+      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
+      "fileName": "story-shunv.mp3",
+      "cachePath": "daily-pack/2026-11-04/story-shunv.mp3"
+    },
+    "afterSong": {
+      "slot": 4,
+      "role": "soft_after_story",
+      "hasLyrics": false,
+      "title": "Serene after story",
+      "libraryId": "after_01",
+      "audio": {
+        "role": "soft_after_story",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/song-4-after.mp3",
+        "sha256": "9a28b138ae44d28bc928d361d2a8f03ace0ee2aa769ef6834fb1ee7860b3b051",
+        "fileName": "song-4-after.mp3",
+        "cachePath": "daily-pack/2026-11-04/song-4-after.mp3"
+      }
+    }
+  },
+  "images": {
+    "cover": {
+      "role": "cover",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/cover.jpg",
+      "sha256": "d7e6f5de2346e661f7d94f09ea096ed4d715b7bab6ac9188f88e67f0eb2b6465",
+      "fileName": "cover.jpg",
+      "cachePath": "daily-pack/2026-11-04/cover.jpg"
+    },
+    "scene": {
+      "role": "scene",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/scene.jpg",
+      "sha256": "50e98b4e99ce03d12cadddfcf8116f089a54b147123d8365c0393b8526de4ff6",
+      "fileName": "scene.jpg",
+      "cachePath": "daily-pack/2026-11-04/scene.jpg"
+    },
+    "card": {
+      "role": "card",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/card.jpg",
+      "sha256": "63c8a71393ae8eb5e026e18cba3f82b69562ad8e15add287b5471e95c79eccdc",
+      "fileName": "card.jpg",
+      "cachePath": "daily-pack/2026-11-04/card.jpg"
+    }
+  },
+  "attribution": [
+    "A New Beginning (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
+    "Caught in the Middle - Amarent (CC BY 4.0)",
+    "Beautiful Dream - Mixkit (Mixkit Stock Music Free License)",
+    "See library/ATTRIBUTION.txt"
+  ]
+}

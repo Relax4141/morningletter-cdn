@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "date": "2026-11-03",
+  "preparedOn": "2026-10-26",
+  "voiceId": "diantai",
+  "storyVoiceId": "shunv",
+  "offlineNotice": "网络还没跟上，先听听本地这一小段。",
+  "morning": {
+    "theme": "present",
+    "text": "把当下当作一封刚拆开的信。先读这一行，再读这一天。从一口呼吸开始。",
+    "durationHintSec": 48,
+    "tts": {
+      "role": "morning_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/morning-diantai.mp3",
+      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "fileName": "morning-diantai.mp3",
+      "cachePath": "daily-pack/2026-11-03/morning-diantai.mp3"
+    }
+  },
+  "afterLetter": [
+    {
+      "slot": 1,
+      "role": "instrumental_mist",
+      "hasLyrics": false,
+      "title": "Serene Moments",
+      "libraryId": "mist_03",
+      "audio": {
+        "role": "instrumental_mist",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/song-1-mist.mp3",
+        "sha256": "9a28b138ae44d28bc928d361d2a8f03ace0ee2aa769ef6834fb1ee7860b3b051",
+        "fileName": "song-1-mist.mp3",
+        "cachePath": "daily-pack/2026-11-03/song-1-mist.mp3"
+      }
+    },
+    {
+      "slot": 2,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "The Funeral (feat. Folkshade)",
+      "lyricExcerpt": "The church bell rites through the morning rain Old boots work slowly down the lane Black",
+      "libraryId": "eng_vocal_09",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/song-2-eng.mp3",
+        "sha256": "a3df226ce88954d4bf144a8326ef7d0e72bc753854959977ca22fb577a4c2586",
+        "fileName": "song-2-eng.mp3",
+        "cachePath": "daily-pack/2026-11-03/song-2-eng.mp3"
+      }
+    },
+    {
+      "slot": 3,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "At the heart of it is just me and you",
+      "lyricExcerpt": "I can't get lost in you, can't get enough for you, Baby I'm good though, boy I'm gonna get lost,",
+      "libraryId": "eng_vocal_02",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/song-3-eng.mp3",
+        "sha256": "93fe9f4d888eabdb88aba0d7f4997ad31c2936278474fb5c25ecd423cf98ffce",
+        "fileName": "song-3-eng.mp3",
+        "cachePath": "daily-pack/2026-11-03/song-3-eng.mp3"
+      }
+    }
+  ],
+  "story": {
+    "title": "与晨光并肩",
+    "body": "天亮之前，空气还很安静。你听见楼下有人轻轻关上门，然后世界又慢下来。你没有急着把今天填满，只是愿意先把这一口呼吸当作一件大事。茶很简单，糖也放得很克制。你打开一小窗，光就进来了。等你该出门的时候，你已经记得把崭新的一天轻轻迎进心里。",
+    "durationHintSec": 300,
+    "tts": {
+      "role": "story_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/story-shunv.mp3",
+      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
+      "fileName": "story-shunv.mp3",
+      "cachePath": "daily-pack/2026-11-03/story-shunv.mp3"
+    },
+    "afterSong": {
+      "slot": 4,
+      "role": "soft_after_story",
+      "hasLyrics": false,
+      "title": "Piano after story",
+      "libraryId": "after_02",
+      "audio": {
+        "role": "soft_after_story",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/song-4-after.mp3",
+        "sha256": "17b0ac88189a4b4214002d58cc5a99521d1d6e0038ecb799c4ad10907d4c8c32",
+        "fileName": "song-4-after.mp3",
+        "cachePath": "daily-pack/2026-11-03/song-4-after.mp3"
+      }
+    }
+  },
+  "images": {
+    "cover": {
+      "role": "cover",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/cover.jpg",
+      "sha256": "d7e6f5de2346e661f7d94f09ea096ed4d715b7bab6ac9188f88e67f0eb2b6465",
+      "fileName": "cover.jpg",
+      "cachePath": "daily-pack/2026-11-03/cover.jpg"
+    },
+    "scene": {
+      "role": "scene",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/scene.jpg",
+      "sha256": "50e98b4e99ce03d12cadddfcf8116f089a54b147123d8365c0393b8526de4ff6",
+      "fileName": "scene.jpg",
+      "cachePath": "daily-pack/2026-11-03/scene.jpg"
+    },
+    "card": {
+      "role": "card",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/card.jpg",
+      "sha256": "63c8a71393ae8eb5e026e18cba3f82b69562ad8e15add287b5471e95c79eccdc",
+      "fileName": "card.jpg",
+      "cachePath": "daily-pack/2026-11-03/card.jpg"
+    }
+  },
+  "attribution": [
+    "The Funeral (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
+    "At the heart of it is just me and you - Amarent (CC BY 4.0)",
+    "Serene Moments - Mixkit (Mixkit Stock Music Free License)",
+    "See library/ATTRIBUTION.txt"
+  ]
+}

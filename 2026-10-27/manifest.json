@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "date": "2026-10-27",
+  "preparedOn": "2026-10-26",
+  "voiceId": "diantai",
+  "storyVoiceId": "shunv",
+  "offlineNotice": "网络还没跟上，先听听本地这一小段。",
+  "morning": {
+    "theme": "warm",
+    "text": "先把心轻轻放回胸口。新的一天，已经把光悄悄送到窗边。慢慢醒，这样就好。",
+    "durationHintSec": 48,
+    "tts": {
+      "role": "morning_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/morning-diantai.mp3",
+      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "fileName": "morning-diantai.mp3",
+      "cachePath": "daily-pack/2026-10-27/morning-diantai.mp3"
+    }
+  },
+  "afterLetter": [
+    {
+      "slot": 1,
+      "role": "instrumental_mist",
+      "hasLyrics": false,
+      "title": "Piano Reflections",
+      "libraryId": "mist_04",
+      "audio": {
+        "role": "instrumental_mist",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/song-1-mist.mp3",
+        "sha256": "17b0ac88189a4b4214002d58cc5a99521d1d6e0038ecb799c4ad10907d4c8c32",
+        "fileName": "song-1-mist.mp3",
+        "cachePath": "daily-pack/2026-10-27/song-1-mist.mp3"
+      }
+    },
+    {
+      "slot": 2,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "At the heart of it is just me and you",
+      "lyricExcerpt": "I can't get lost in you, can't get enough for you, Baby I'm good though, boy I'm gonna get lost,",
+      "libraryId": "eng_vocal_02",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/song-2-eng.mp3",
+        "sha256": "93fe9f4d888eabdb88aba0d7f4997ad31c2936278474fb5c25ecd423cf98ffce",
+        "fileName": "song-2-eng.mp3",
+        "cachePath": "daily-pack/2026-10-27/song-2-eng.mp3"
+      }
+    },
+    {
+      "slot": 3,
+      "role": "eng_vocal",
+      "hasLyrics": true,
+      "lyricLang": "en",
+      "title": "Every Worry Learns To Fly",
+      "lyricExcerpt": "Mornin' breath on open skin Golden light in the shadowing No direction, no demand Just my feet",
+      "libraryId": "eng_vocal_13",
+      "audio": {
+        "role": "eng_vocal",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/song-3-eng.mp3",
+        "sha256": "a4407a5c34091bd252e976a1bdfb5ab6539cad8204627b6b83142f0f0ea1f808",
+        "fileName": "song-3-eng.mp3",
+        "cachePath": "daily-pack/2026-10-27/song-3-eng.mp3"
+      }
+    }
+  ],
+  "story": {
+    "title": "窗边还有余温",
+    "body": "厨房里的杯子还留着昨夜的温度。你打开窗帘，光像一封没有署名的信落在桌边。信里没有急着写完的字，只有一句愿意陪你慢慢走的话。后来你才发现，原来那些安静的时刻，也在替你把心安好。出门前你把椅子推回原位，连脚步也轻了一点。",
+    "durationHintSec": 300,
+    "tts": {
+      "role": "story_tts",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/story-shunv.mp3",
+      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
+      "fileName": "story-shunv.mp3",
+      "cachePath": "daily-pack/2026-10-27/story-shunv.mp3"
+    },
+    "afterSong": {
+      "slot": 4,
+      "role": "soft_after_story",
+      "hasLyrics": false,
+      "title": "Harp after story",
+      "libraryId": "after_03",
+      "audio": {
+        "role": "soft_after_story",
+        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/song-4-after.mp3",
+        "sha256": "a619afd2f6f17b601b56a5e6f02a69c640c2592117eaaec4fd12a576a53ff529",
+        "fileName": "song-4-after.mp3",
+        "cachePath": "daily-pack/2026-10-27/song-4-after.mp3"
+      }
+    }
+  },
+  "images": {
+    "cover": {
+      "role": "cover",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/cover.jpg",
+      "sha256": "d7e6f5de2346e661f7d94f09ea096ed4d715b7bab6ac9188f88e67f0eb2b6465",
+      "fileName": "cover.jpg",
+      "cachePath": "daily-pack/2026-10-27/cover.jpg"
+    },
+    "scene": {
+      "role": "scene",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/scene.jpg",
+      "sha256": "50e98b4e99ce03d12cadddfcf8116f089a54b147123d8365c0393b8526de4ff6",
+      "fileName": "scene.jpg",
+      "cachePath": "daily-pack/2026-10-27/scene.jpg"
+    },
+    "card": {
+      "role": "card",
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-10-27/card.jpg",
+      "sha256": "63c8a71393ae8eb5e026e18cba3f82b69562ad8e15add287b5471e95c79eccdc",
+      "fileName": "card.jpg",
+      "cachePath": "daily-pack/2026-10-27/card.jpg"
+    }
+  },
+  "attribution": [
+    "At the heart of it is just me and you - Amarent (CC BY 4.0)",
+    "Every Worry Learns To Fly - Sascha Ende (CC BY 4.0)",
+    "Piano Reflections - Mixkit (Mixkit Stock Music Free License)",
+    "See library/ATTRIBUTION.txt"
+  ]
+}
