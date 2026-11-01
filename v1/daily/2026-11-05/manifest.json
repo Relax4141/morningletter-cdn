@@ -3,16 +3,16 @@
   "date": "2026-11-05",
   "preparedOn": "2026-10-26",
   "voiceId": "diantai",
-  "storyVoiceId": "shunv",
+  "storyVoiceId": "limi",
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "let_go",
     "text": "有些事可以先放在窗台上。不是忘记，只是今天先不背着它们赶路。呼吸轻一点。",
-    "durationHintSec": 48,
+    "durationHintSec": 61,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-05/morning-diantai.mp3",
-      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "sha256": "993dd3f7ecc3167f54b9145ce3e28b4cdf5a8a71083874052afd1171505fedc8",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-05/morning-diantai.mp3"
     }
@@ -47,34 +47,18 @@
         "fileName": "song-2-eng.mp3",
         "cachePath": "daily-pack/2026-11-05/song-2-eng.mp3"
       }
-    },
-    {
-      "slot": 3,
-      "role": "eng_vocal",
-      "hasLyrics": true,
-      "lyricLang": "en",
-      "title": "The Crossing (feat. Folkshade)",
-      "lyricExcerpt": "I stood where will those touch the tide? With lanterns lit on either side. The crossing",
-      "libraryId": "eng_vocal_05",
-      "audio": {
-        "role": "eng_vocal",
-        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-05/song-3-eng.mp3",
-        "sha256": "d31ce39f2d1bbba4757c63876b331a2b30fc41b5c00217ed35b6109cb0e4882d",
-        "fileName": "song-3-eng.mp3",
-        "cachePath": "daily-pack/2026-11-05/song-3-eng.mp3"
-      }
     }
   ],
   "story": {
     "title": "先把石头放下",
     "body": "你把旧清单叠好，放进抽屉最上层。不是扔掉，只是今天不必再看一遍。窗台上的叶子翻了一下，像在说：可以了。你提上一袋水果，把心里的硬石头先放下。路上有人匆匆赶路，你却学会与晨风并肩。放下重了，也就走得到想去的地方。走到路口时你忽然明白，原来轻松并不是偶然。",
-    "durationHintSec": 300,
+    "durationHintSec": 477,
     "tts": {
       "role": "story_tts",
-      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-05/story-shunv.mp3",
-      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
-      "fileName": "story-shunv.mp3",
-      "cachePath": "daily-pack/2026-11-05/story-shunv.mp3"
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-05/story-limi.mp3",
+      "sha256": "5796c94187a2d88f8f6893e7933b1fc8b4cec5461a4021fbe8f038bbbc63f4c3",
+      "fileName": "story-limi.mp3",
+      "cachePath": "daily-pack/2026-11-05/story-limi.mp3"
     },
     "afterSong": {
       "slot": 4,
@@ -116,7 +100,6 @@
   },
   "attribution": [
     "No Final Dark (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
-    "The Crossing (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
     "Wedding Harp - Mixkit (Mixkit Stock Music Free License)",
     "See library/ATTRIBUTION.txt"
   ]

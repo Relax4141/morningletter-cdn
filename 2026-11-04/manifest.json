@@ -3,16 +3,16 @@
   "date": "2026-11-04",
   "preparedOn": "2026-10-26",
   "voiceId": "diantai",
-  "storyVoiceId": "shunv",
+  "storyVoiceId": "limi",
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "warm",
     "text": "先把心轻轻放回胸口。新的一天，已经把光悄悄送到窗边。慢慢醒，这样就好。",
-    "durationHintSec": 48,
+    "durationHintSec": 60,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/morning-diantai.mp3",
-      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "sha256": "6d722f3ca6f544a34b4087634b46f0b7e3a957c8ab29c3c3132072e0e483f66d",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-04/morning-diantai.mp3"
     }
@@ -47,34 +47,18 @@
         "fileName": "song-2-eng.mp3",
         "cachePath": "daily-pack/2026-11-04/song-2-eng.mp3"
       }
-    },
-    {
-      "slot": 3,
-      "role": "eng_vocal",
-      "hasLyrics": true,
-      "lyricLang": "en",
-      "title": "Caught in the Middle",
-      "lyricExcerpt": "You never planned for a dance, never planned for a while. My feelings got me all done the day. You",
-      "libraryId": "eng_vocal_03",
-      "audio": {
-        "role": "eng_vocal",
-        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/song-3-eng.mp3",
-        "sha256": "2e9d143a6b039c946deb2ebc2f4e5124b0b37010485fd4830b54aa41dd7f9f3c",
-        "fileName": "song-3-eng.mp3",
-        "cachePath": "daily-pack/2026-11-04/song-3-eng.mp3"
-      }
     }
   ],
   "story": {
     "title": "窗边还有余温",
     "body": "厨房里的杯子还留着昨夜的温度。你打开窗帘，光像一封没有署名的信落在桌边。信里没有急着写完的字，只有一句愿意陪你慢慢走的话。后来你才发现，原来那些安静的时刻，也在替你把心安好。出门前你把椅子推回原位，连脚步也轻了一点。",
-    "durationHintSec": 300,
+    "durationHintSec": 477,
     "tts": {
       "role": "story_tts",
-      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/story-shunv.mp3",
-      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
-      "fileName": "story-shunv.mp3",
-      "cachePath": "daily-pack/2026-11-04/story-shunv.mp3"
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/story-limi.mp3",
+      "sha256": "5796c94187a2d88f8f6893e7933b1fc8b4cec5461a4021fbe8f038bbbc63f4c3",
+      "fileName": "story-limi.mp3",
+      "cachePath": "daily-pack/2026-11-04/story-limi.mp3"
     },
     "afterSong": {
       "slot": 4,
@@ -116,7 +100,6 @@
   },
   "attribution": [
     "A New Beginning (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
-    "Caught in the Middle - Amarent (CC BY 4.0)",
     "Beautiful Dream - Mixkit (Mixkit Stock Music Free License)",
     "See library/ATTRIBUTION.txt"
   ]

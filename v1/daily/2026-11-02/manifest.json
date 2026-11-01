@@ -3,7 +3,7 @@
   "date": "2026-11-02",
   "preparedOn": "2026-10-26",
   "voiceId": "diantai",
-  "storyVoiceId": "shunv",
+  "storyVoiceId": "limi",
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "confidence",
@@ -47,34 +47,18 @@
         "fileName": "song-2-eng.mp3",
         "cachePath": "daily-pack/2026-11-02/song-2-eng.mp3"
       }
-    },
-    {
-      "slot": 3,
-      "role": "eng_vocal",
-      "hasLyrics": true,
-      "lyricLang": "en",
-      "title": "The Breath of Time (feat. Folkshade)",
-      "lyricExcerpt": "Softose pressed the morning dew Missed still clings where the sunlight's new A watchful gaze",
-      "libraryId": "eng_vocal_21",
-      "audio": {
-        "role": "eng_vocal",
-        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-02/song-3-eng.mp3",
-        "sha256": "41df21939919433325a495d458dd51e5ba59ab9d61873afdcf18d8c929dfdf0e",
-        "fileName": "song-3-eng.mp3",
-        "cachePath": "daily-pack/2026-11-02/song-3-eng.mp3"
-      }
     }
   ],
   "story": {
     "title": "你通达得很",
     "body": "镜子里的人看起来比想象中更清醒。你对自己说：今天也可以。昨天的过失还在，却不再挡住你收回的脚步。一步一步，一页一页。公交上的短回复，让你忽然觉得被托住。你把这句话录进心里，当作小小的证据。夜里回想清晨那句话，仍然适用：原来你比自己以为的更通达。",
-    "durationHintSec": 300,
+    "durationHintSec": 477,
     "tts": {
       "role": "story_tts",
-      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-02/story-shunv.mp3",
-      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
-      "fileName": "story-shunv.mp3",
-      "cachePath": "daily-pack/2026-11-02/story-shunv.mp3"
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-02/story-limi.mp3",
+      "sha256": "5796c94187a2d88f8f6893e7933b1fc8b4cec5461a4021fbe8f038bbbc63f4c3",
+      "fileName": "story-limi.mp3",
+      "cachePath": "daily-pack/2026-11-02/story-limi.mp3"
     },
     "afterSong": {
       "slot": 4,
@@ -116,7 +100,6 @@
   },
   "attribution": [
     "Whispers of the Pines (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
-    "The Breath of Time (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
     "Wind Leaves - Mixkit (Mixkit Stock Music Free License)",
     "See library/ATTRIBUTION.txt"
   ]

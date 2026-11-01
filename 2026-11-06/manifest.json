@@ -3,16 +3,16 @@
   "date": "2026-11-06",
   "preparedOn": "2026-10-26",
   "voiceId": "diantai",
-  "storyVoiceId": "shunv",
+  "storyVoiceId": "limi",
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "confidence",
     "text": "你已经走过很多个清晨了。这一天也一样站得住，像一棵还在抽芽的树。",
-    "durationHintSec": 48,
+    "durationHintSec": 64,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-06/morning-diantai.mp3",
-      "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
+      "sha256": "43abc37df5ab9a690bcb8c74715661fff211aa766770724361380e16e7ac940b",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-06/morning-diantai.mp3"
     }
@@ -47,34 +47,18 @@
         "fileName": "song-2-eng.mp3",
         "cachePath": "daily-pack/2026-11-06/song-2-eng.mp3"
       }
-    },
-    {
-      "slot": 3,
-      "role": "eng_vocal",
-      "hasLyrics": true,
-      "lyricLang": "en",
-      "title": "Silent Grey",
-      "lyricExcerpt": "Yesterday and tomorrow, now feel sad and",
-      "libraryId": "eng_vocal_06",
-      "audio": {
-        "role": "eng_vocal",
-        "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-06/song-3-eng.mp3",
-        "sha256": "650d511c0382f138f05f5a92aaae5c53e4b60cacfb2e7b127f6b0d62d733dbb7",
-        "fileName": "song-3-eng.mp3",
-        "cachePath": "daily-pack/2026-11-06/song-3-eng.mp3"
-      }
     }
   ],
   "story": {
     "title": "你通达得很",
     "body": "镜子里的人看起来比想象中更清醒。你对自己说：今天也可以。昨天的过失还在，却不再挡住你收回的脚步。一步一步，一页一页。公交上的短回复，让你忽然觉得被托住。你把这句话录进心里，当作小小的证据。夜里回想清晨那句话，仍然适用：原来你比自己以为的更通达。",
-    "durationHintSec": 300,
+    "durationHintSec": 477,
     "tts": {
       "role": "story_tts",
-      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-06/story-shunv.mp3",
-      "sha256": "ed2861e307b935668a952fbf3faef4320d59ecff232b0348eab8684490b83b7c",
-      "fileName": "story-shunv.mp3",
-      "cachePath": "daily-pack/2026-11-06/story-shunv.mp3"
+      "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-06/story-limi.mp3",
+      "sha256": "5796c94187a2d88f8f6893e7933b1fc8b4cec5461a4021fbe8f038bbbc63f4c3",
+      "fileName": "story-limi.mp3",
+      "cachePath": "daily-pack/2026-11-06/story-limi.mp3"
     },
     "afterSong": {
       "slot": 4,
@@ -116,7 +100,6 @@
   },
   "attribution": [
     "Sail On (feat. Folkshade) - Sascha Ende / Folkshade (CC BY 4.0)",
-    "Silent Grey - Amarent (CC BY 4.0)",
     "Piano Reflections - Mixkit (Mixkit Stock Music Free License)",
     "See library/ATTRIBUTION.txt"
   ]
