@@ -7,15 +7,17 @@
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "warm",
-    "text": "先把心轻轻放回胸口。新的一天，已经把光悄悄送到窗边。慢慢醒，这样就好。",
-    "durationHintSec": 60,
+    "text": "今天是二零二六年十一月四日，星期三，现在七点整。\n你有一份来信。\n水杯还在床头，杯壁外一层薄薄的水汽。你伸手握住，掌心先暖起来，再传到指尖。\n楼下有人拖了一下拖鞋，门开了又合上。屋里仍安静。把这一口温吞的水喝完，再起身也来得及。",
+    "durationHintSec": 26.0,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-04/morning-diantai.mp3",
       "sha256": "6d722f3ca6f544a34b4087634b46f0b7e3a957c8ab29c3c3132072e0e483f66d",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-04/morning-diantai.mp3"
-    }
+    },
+    "audio": "morning-diantai.mp3",
+    "voiceId": "diantai"
   },
   "afterLetter": [
     {
