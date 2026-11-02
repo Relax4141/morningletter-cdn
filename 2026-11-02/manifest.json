@@ -7,15 +7,17 @@
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "confidence",
-    "text": "你已经走过很多个清晨了。这一天也一样站得住，像一棵还在抽芽的树。",
-    "durationHintSec": 48,
+    "text": "今天是二零二六年十一月二日，星期一，现在七点整。\n你有一份来信。\n窗帘拉开一条缝，光先落到鞋尖上。鞋还在床边，鞋带昨天随便挽着，今天仍够你穿上。\n脚沾地，凉意从脚心上来一点点，脚趾动一下就顺了。先走你看得见的那一步。鞋在，光在，你也在。",
+    "durationHintSec": 24.0,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-02/morning-diantai.mp3",
       "sha256": "d33b390dc382845d13dddcdaca96ee9d06c5bbc60f7fd102e993e8c5241db100",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-02/morning-diantai.mp3"
-    }
+    },
+    "audio": "morning-diantai.mp3",
+    "voiceId": "diantai"
   },
   "afterLetter": [
     {
