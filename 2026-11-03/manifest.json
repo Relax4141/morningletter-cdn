@@ -7,15 +7,17 @@
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "present",
-    "text": "把当下当作一封刚拆开的信。先读这一行，再读这一天。从一口呼吸开始。",
-    "durationHintSec": 62,
+    "text": "今天是二零二六年十一月三日，星期二，现在七点整。\n你有一份来信。\n窗台上已经有光了。它先碰到杯沿，再慢慢铺到被子角上，把昨晚的褶皱照得很浅。\n先别摸手机。肩往下沉，下巴离开枕头半寸就够。脚沾地之前，这一小会儿是你的。今天，先从这一小会儿开始。",
+    "durationHintSec": 26.5,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-03/morning-diantai.mp3",
       "sha256": "22f757b9a32c63ba25050a9439121eab62157a6f5b84057fa278e1777fdcdf72",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-03/morning-diantai.mp3"
-    }
+    },
+    "audio": "morning-diantai.mp3",
+    "voiceId": "diantai"
   },
   "afterLetter": [
     {
