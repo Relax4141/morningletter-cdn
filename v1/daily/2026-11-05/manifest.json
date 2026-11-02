@@ -7,15 +7,17 @@
   "offlineNotice": "网络还没跟上，先听听本地这一小段。",
   "morning": {
     "theme": "let_go",
-    "text": "有些事可以先放在窗台上。不是忘记，只是今天先不背着它们赶路。呼吸轻一点。",
-    "durationHintSec": 61,
+    "text": "今天是二零二六年十一月五日，星期四，现在七点整。\n你有一份来信。\n枕头边还搁着昨夜没回完的那条消息。屏幕已经黑了，字不在眼前，心里那一点沉，却可以先放下。\n深吸一口气，肩跟着落下去。未回的，白天再看。此刻先把被子叠一下，留给今天自己。",
+    "durationHintSec": 27.0,
     "tts": {
       "role": "morning_tts",
       "url": "https://relax4141.github.io/morningletter-cdn/v1/daily/2026-11-05/morning-diantai.mp3",
       "sha256": "993dd3f7ecc3167f54b9145ce3e28b4cdf5a8a71083874052afd1171505fedc8",
       "fileName": "morning-diantai.mp3",
       "cachePath": "daily-pack/2026-11-05/morning-diantai.mp3"
-    }
+    },
+    "audio": "morning-diantai.mp3",
+    "voiceId": "diantai"
   },
   "afterLetter": [
     {
